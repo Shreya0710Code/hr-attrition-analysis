@@ -7,6 +7,12 @@ Analyze sale trends using Python and Excel
   Excel (Pivot Tables)
 - Dataset: Sample Superstore (Kaggle)
 - Key Insights
- Coming soon...
+  Sales department had the highest attrition rate
+  Younger employees (age 25-35) tend to leave more
+  Employees who left earned lower average monthly income
+  Poor work-life balance strongly linked to higher attrition
+- Files
+  HR_Attrition_Analysis.ipynb → Full analysis notebook
+  WA_Fn-UseC_-HR-Employee-Attrition.csv → Dataset
 - Author
  Shreya —(Shreya.sharmaa0710@gmail.com )
