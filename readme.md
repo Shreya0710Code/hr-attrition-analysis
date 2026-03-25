@@ -10,4 +10,4 @@ Dataset: Sample Superstore (Kaggle)
 Key Insights
 - Coming soon...
  Author
-Shreya — [Email](Shreya.sharmaa0710@gmail.com )
+Shreya —(Shreya.sharmaa0710@gmail.com )
