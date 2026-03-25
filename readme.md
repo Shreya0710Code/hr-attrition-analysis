@@ -1,21 +1,21 @@
-# 📊 HR Employee Attrition Analysis
+HR Employee Attrition Analysis
 
-## 📌 About
+About
 Analyzed IBM HR Analytics dataset to uncover key reasons 
 behind employee attrition using Python.
 
-## 🛠️ Tools
+Tools
 Python | Pandas | Matplotlib | Google Colab
 
-## 🔍 Key Insights
+Key Insights
 - Sales department had the highest attrition rate
 - Younger employees (age 25-35) leave more frequently
 - Employees who left earned lower average monthly income
 - Poor work-life balance strongly linked to higher attrition
 
-## 📁 Files
+Files
 - HR_Attrition_Analysis.ipynb → Analysis notebook
 - WA_Fn-UseC_-HR-Employee-Attrition.csv → Dataset
 
-## 👤 Author
+Author
 Shreya — shreya.sharmaa0710@gmail.com
